@@ -14,7 +14,7 @@
   <li>Open Weather API</li>
  <li>Unsplash API</li>
 </ul>
-
+<p>Find The Site Live at https://weather-faizan-app.netlify.app/</p>
 <h3> ScreenShots </h3>  
 <img src = "Weather-App.jpg" alt="Sample Image">
 <br>
